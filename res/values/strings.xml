@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultipleDownLoader</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="top_textview">多线程断点下载器</string>
+	<string name="download_button">开始下载</string>
+	<string name="resources_url">资源链接</string>
+	<string name="sdcarderror">无法获取SD卡</string>
+	<string name="success">下载成功</string>
+	<string name="error">下载失败</string>
+</resources>
